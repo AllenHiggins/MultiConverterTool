@@ -1,0 +1,8 @@
+C:\Users\Alan\Desktop\C #\Practical1_3\Practical1_3\bin\Debug\Practical1_3.exe
+C:\Users\Alan\Desktop\C #\Practical1_3\Practical1_3\bin\Debug\Practical1_3.pdb
+C:\Users\Alan\Desktop\C #\Practical1_3\Practical1_3\obj\x86\Debug\Practical1_3.Form1.resources
+C:\Users\Alan\Desktop\C #\Practical1_3\Practical1_3\obj\x86\Debug\Practical1_3.Properties.Resources.resources
+C:\Users\Alan\Desktop\C #\Practical1_3\Practical1_3\obj\x86\Debug\Practical1_3.csproj.GenerateResource.Cache
+C:\Users\Alan\Desktop\C #\Practical1_3\Practical1_3\obj\x86\Debug\Practical1_3.exe
+C:\Users\Alan\Desktop\C #\Practical1_3\Practical1_3\obj\x86\Debug\Practical1_3.pdb
+C:\Users\Alan\Desktop\C #\Practical1_3\Practical1_3\obj\x86\Debug\Practical1_3.csprojResolveAssemblyReference.cache
